@@ -1,8 +1,5 @@
-# PythonClass
-<<<<<<< HEAD
+PythonClass 
 
-=======
->>>>>>> ad923ae8e7e0c1ee2198fbdff83fd95db38406db
 Basic Github commands -
 
 1.for initializing the directory
@@ -28,8 +25,3 @@ git remote add origin {url}
 
 8.You can then tell it to push (which is "upload") your commited files:
 
-<<<<<<< HEAD
-git push -u origin master
-=======
-git push -u origin master
->>>>>>> ad923ae8e7e0c1ee2198fbdff83fd95db38406db
