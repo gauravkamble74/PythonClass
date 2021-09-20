@@ -1,0 +1,10 @@
+1. Write a program to use comparision operator to find
+	 whether a variable is greater than other
+
+2. Write a program to print " 
+
+3. Take 2 numbers inpur form user & write a program to 
+	find remainder when a number is divided by other
+
+4. Use comparision operator to find whether 2 number given by user are greater than one another.
+
