@@ -1,0 +1,11 @@
+1. Write a program to display a user entered name followed by Good Afternoon using input() function.
+
+2.Write a program to print length of string entered by user
+
+3.Write a program to check whether input entered by user ends with fullstop(.)
+
+4.Write a program to find whether given string has double spaces or not 
+	movie_name = "avengers  endgame"
+
+5.Write a program to replace gaurav to your name from below string
+	sen = "hello my name is gaurav"
