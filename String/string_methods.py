@@ -1,9 +1,10 @@
-movie_name="kgf Chapter 2"
+movie_name="kgf chapter  2 "
 
 # print(movie_name)
 
 # length of string
-# print(len(movie_name))
+# length1 = len(movie_name)
+# print(length1)
 
 # title 
 # print(movie_name.title())
@@ -18,13 +19,14 @@ movie_name="kgf Chapter 2"
 # print(movie_name.endswith(" "))
 
 # counts
-# print(movie_name.count("a"))
+# print(movie_name.count("x"))
 
 # capitalize
 # print(movie_name.capitalize())
 
 # find
-# print(movie_name.find("Chapter"))
+# print(movie_name.find("f"))
 
 # replace
 # print(movie_name.replace("2","3"))
+# print(movie_name.replace("  "," "))
