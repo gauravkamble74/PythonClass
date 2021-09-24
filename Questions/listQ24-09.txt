@@ -1,0 +1,13 @@
+1. Write a program to access 1st & 6th element of a list given below
+    bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+
+2. Make a list of 5 diffrent places you would like to visit & perform 
+    list operation like sort(),reverse() etc on them
+
+3. Write a program to accept marks of 6 students & display them in sorted manner 
+    (use list to store the marks)
+
+4. Write a program to sum a list with 4 numbers
+
+5. Write a program to count no of zeroes in follwing tuple:
+    a = (7,3,0,1,0,0,5)
