@@ -8,4 +8,4 @@
 	movie_name = "avengers  endgame"
 
 5.Write a program to replace gaurav to your name from below string
-	sen = "hello my name is gaurav"
+	sen = "hello my name is gaurav".rs
