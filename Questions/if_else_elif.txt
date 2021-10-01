@@ -1,0 +1,14 @@
+1. Ask user to enter his age if he is more than 18 yrs old , print you are allowed to enter.
+
+2. Write program to find greatest of 4 number entered by user.
+
+3. Write a program to find out whether the student is pass or fail if it requires total 40% & atleast 33% in each subject 
+   to pass.Take marks of 3 subject input from user
+
+4. Write a program to detect spam message.
+   Generally text containing keyword "make lot of money" , "25 din me paisa double" , "buy now limited time offer"
+   "never miss such a chance"
+
+5. Write a program to find whether a given string is present in list or not.
+
+6. Write a program to find if a post is telling about "girls" or not.
