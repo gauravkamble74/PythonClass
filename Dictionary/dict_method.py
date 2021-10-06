@@ -44,7 +44,7 @@ myDict = {
 # print(myDict.values())
 
 # pop function in dictionary
-# x = myDict.pop()
-# print(x)
+# myDict.pop()
+# print(myDict)
 # myDict.pop('gaurav')
 # print(myDict)

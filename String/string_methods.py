@@ -19,7 +19,7 @@ movie_name="kgf chapter  2 "
 # print(movie_name.endswith(" "))
 
 # counts
-# print(movie_name.count("x"))
+# print(movie_name.count("2"))
 
 # capitalize
 # print(movie_name.capitalize())
@@ -28,5 +28,5 @@ movie_name="kgf chapter  2 "
 # print(movie_name.find("f"))
 
 # replace
-# print(movie_name.replace("2","3"))
+print(movie_name.replace("2","3"))
 # print(movie_name.replace("  "," "))

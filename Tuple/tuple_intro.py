@@ -8,7 +8,7 @@
 # x= (1,)
 
 laptops = ("asus","lenovo","hp","dell","mac","hp")
-
+# laptops[0]='mi'
 # laptops(1) = "mi" cannot assign any value
 
 # for counting 

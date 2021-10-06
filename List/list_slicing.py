@@ -4,7 +4,7 @@ my_scooty = ["activa","pleasure","maestro","jupiter","pep"]
 
 # for accessing last element
 # for sclicing 
-# print(scooty[4:5])
+print(my_scooty[4:5])
 
-my_friends_scooty = my_scooty[:]
-print(my_friends_scooty)
+# my_friends_scooty = my_scooty[:]
+# print(my_friends_scooty)

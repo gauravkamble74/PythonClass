@@ -7,12 +7,12 @@ number = 12
 
 # boolean type
 value = True
-# print(type(value))
+# print(value)
 
 
 #string type
 name="gaurav"
-# print(type(name))
+# print(name)
 
 
 #float type
@@ -23,8 +23,6 @@ number_one=4.5
 value_one=None
 # print(type(value_one))
 
-
-
 # apostrophe (')
 car_company="ford is a genuis company.Henry Ford is a good man.He's very rich"
-print(type(car_company))
+# print(car_company)

@@ -14,4 +14,4 @@ e = int(d)
 # string to integer conversion
 f="13"
 g= int(f)
-print(g)
+# print(type(g))

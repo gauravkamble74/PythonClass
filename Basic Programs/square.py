@@ -1,5 +1,5 @@
 # calcualte square of number enterd by user
 
-number=int(input("Enter a number"))
+num=int(input("enter any number"))
 
-print(number*number)
+print(num*num)

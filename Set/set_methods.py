@@ -4,8 +4,8 @@ set3 = set()
 
 # for adding values to set 
 # set1.add(7)
-# set1.add(1) if already present 
-# set1.add(set2)
+# set1.add(1) #if already present 
+# set1.update(set2)
 # print(set1)
 
 # for copying the set 
@@ -17,10 +17,10 @@ set3 = set()
 # print(set1)
 
 # union 
-# print(set1.union(set3))
+# print(set1.union(set2))
 
 # intersection
-# print(set1.intersection(set3))
+# print(set1.intersection(set2))
 
 # diffrence
 # print(set1.difference(set2))

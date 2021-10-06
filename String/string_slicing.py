@@ -1,7 +1,7 @@
 sentence = "python is very easy"
 
 # for printing specific info
-# sliced_sentence = sentence[7:9]
+sliced_sentence = sentence[7:9]
 
 # print(sentence[4:])
 
