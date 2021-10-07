@@ -1,7 +1,7 @@
 1. Write a program to print multiplication table of
    a given number using for loop as well as while loop.
 
-2. Write a program to get all the names in the list that start with A and greet them
+2. Write a program to get all the names in the list that start with a and greet them
    l1 = ['anuj','rahul','gaurav','abhi','avinash','pranay']
 
 3. Write a program to find whether a given number is prime or not.
