@@ -1,15 +1,11 @@
-# class Number:
-#     def sum(self):
-#         return self.a+self.b 
+class Addition:
+    print('i am inside class')
 
-# num = Number()
-# num.a = 12
-# num.b = 34
-# s=num.sum()
-# print(s)
+    def abc(self):
+        return self.a + self.b;
 
-a = 5
-
-a = "gaurav"
-
-print(a)
+x = Addition()
+x.a = 4
+x.b = 3
+y = x.abc()
+print(y)
