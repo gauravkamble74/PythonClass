@@ -1,5 +1,6 @@
 class Student:
     college = 'biyani college'
+    
     def printInfo(self):
         print(f'Full name of student is {self.name}')
         print(f'Roll number is {self.roll_no}')

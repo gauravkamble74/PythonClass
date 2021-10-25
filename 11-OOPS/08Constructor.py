@@ -11,6 +11,6 @@ class Cricket:
         print(f"captain of team is {self.captain}")
 
 obj = Cricket("Bcci","India","Virat")
-obj = Cricket()
+# obj = Cricket()
 # obj.board = 'bcci'
-# obj.teamInfo()
+obj.teamInfo()

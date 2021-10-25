@@ -11,6 +11,6 @@ rancho.furs = 'yes'
 rancho.legs = 4
 rancho.gender = 'male'
 rancho.food = 'drools'
-rancho.myDog() # Dogs.myDog(rancho)
+# rancho.myDog() # Dogs.myDog(rancho)
 
 # by using self we can access the methods of attibutes and class 
