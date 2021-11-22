@@ -25,7 +25,7 @@ class Programmer(Employee):
 
     def __init__(self):
         super().__init__()
-        print('Programmer initialized')
+        # print('Programmer initialized')
 
     def getSalary(self):
         print('there is no salary')

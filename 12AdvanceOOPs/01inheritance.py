@@ -1,6 +1,6 @@
 class Engineering:
     university = "Sant Gadge Baba"
-
+    
     def showPassStats(self):
         print('only 50% passed')
 

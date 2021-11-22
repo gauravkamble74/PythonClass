@@ -4,5 +4,5 @@ class Check:
 
 obj = Check()
 ojb1 = Check()
-print('Address of obj is ',id(obj))
-print('Address of obj1 is ',id(ojb1))
+# print('Address of obj is ',id(obj))
+# print('Address of obj1 is ',id(ojb1))

@@ -13,4 +13,3 @@ parvati.owner = 'Sunil'
 parvati.offers = 'No'
 
 parvati.shopInfo()
-
