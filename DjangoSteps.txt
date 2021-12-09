@@ -1,0 +1,29 @@
+Steps to make django project
+
+1. install django on your terminal by the follwing command
+pip install django
+
+2. Make a folder where you want to create your web application
+
+3. Now make django project with the follwing command
+django-admin startproject mysitename
+
+4. To run the server of project type
+python manage.py runserver
+
+5. To create new app type
+python manage.py startapp appname
+
+6. In the app you created make a new urls.py file
+
+7. Configure the urls.py file as shown in class or refer github class
+
+8. Now run the web application by the follwing command
+python manage.py runserver
+
+9. Now make two folders static and templates and configure them refer(github)
+-place the static files which you want to show to users
+-place the html,js and css files in templates
+
+10. Your project is Ready to go Now show your skills to built a beautiful website.
+
